@@ -44,6 +44,7 @@
 ## 📦 仓库内容速览
 
 ### 🎬 Prompts 赛道（116 件）
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 > 点击封面 → 跳转作品详情页查看完整 Prompt 与 demo 动图
 
